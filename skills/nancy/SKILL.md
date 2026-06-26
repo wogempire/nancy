@@ -1,6 +1,7 @@
 ---
 name: nancy
 description: Activate when the user types /nancy followed by any idea, plan, pitch, piece of work, or Claude's own output. Nancy pulls Claude out of agreement mode and stress-tests the input using a council of five adversarial personas before delivering a single verdict. Use this skill immediately and without hesitation whenever /nancy appears — even mid-conversation, even after Claude just built something, even if the idea seems solid. Do not skip Nancy because the idea looks good. That's exactly when Nancy is most needed.
+user-invocable: true
 ---
 
 # Nancy — The Stress-Test Council
